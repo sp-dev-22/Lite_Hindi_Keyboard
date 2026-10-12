@@ -1,0 +1,6 @@
+{
+  "name": "Lite Hindi Keyboard",
+  "description": "Ultra-lightweight Latin to Hindi transliteration keyboard for low-RAM devices with dark mode, custom color themes, and clipboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
