@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar" />
+    <style name="Theme.LiteHindi" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#101917</item>
+    </style>
 </resources>

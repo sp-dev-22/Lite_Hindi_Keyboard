@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lite Hindi Keyboard</string>
+    <string name="subtype_label">Lite Hindi (Roman to Devanagari)</string>
 </resources>
